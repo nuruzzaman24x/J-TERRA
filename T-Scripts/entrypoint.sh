@@ -11,4 +11,4 @@ sudo systemctl restart docker
 # mv package
 # docker build -t petsore .
 # if you do not want to make image, then run readymade image
-docker run -d -p 8080:8080 adijaiswal/petsore
+docker run -d -p 8080:8080 nuruzzaman24x/petsore
